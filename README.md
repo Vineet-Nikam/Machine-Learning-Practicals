@@ -8,16 +8,16 @@ The practicals cover fundamental concepts in Python, data preprocessing, regress
 
 | No. | Practical | Description |
 |-----|-----------|-------------|
-| 1 | [Python Libraries & Tools](Python%20Libraries%20%26%20Tools.ipynb) | Introduction to Python libraries and tools commonly used in machine learning |
-| 2 | [Data Preprocessing](Data%20Preprocessing.ipynb) | Basic data preparation and preprocessing techniques |
-| 3 | [Linear Regression](Linear%20Regression.ipynb) | Implementation and understanding of linear regression |
-| 4 | [Logistic Regression](Logistic%20Regression.ipynb) | Binary classification using logistic regression |
-| 5 | [Decision Tree Classification](Decision%20Tree%20Classification.ipynb) | Classification using a decision tree model |
+| 1 | [Python Libraries & Tools](01-Python-Libraries-%26-Tools.ipynb) | Introduction to Python libraries and tools commonly used in machine learning |
+| 2 | [Data Preprocessing](02-Data-Preprocessing.ipynb) | Basic data preparation and preprocessing techniques |
+| 3 | [Linear Regression](03-Linear-Regression.ipynb) | Implementation and understanding of linear regression |
+| 4 | [Logistic Regression](04-Logistic-Regression.ipynb) | Binary classification using logistic regression |
+| 5 | [Decision Tree Classification](05-Decision-Tree-Classification.ipynb) | Classification using a decision tree model |
 
 ## 🛠️ Tools & Technologies
 
 - Python
-- Google Colab
+- Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
